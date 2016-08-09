@@ -14,9 +14,9 @@
    height="19"
    id="svg4875"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 19 19"
-   sodipodi:docname="minimize.svg">
+   sodipodi:docname="minimize_dash_disabled.svg">
   <defs
      id="defs4877">
     <linearGradient
@@ -85,9 +85,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.716923"
-     inkscape:cx="5.8731397"
-     inkscape:cy="6.8250568"
+     inkscape:zoom="33.537211"
+     inkscape:cx="4.5049808"
+     inkscape:cy="6.4651908"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -95,9 +95,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     inkscape:window-x="0"
+     inkscape:window-width="1623"
+     inkscape:window-height="1026"
+     inkscape:window-x="57"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
@@ -108,7 +108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -117,15 +117,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(287.35715,-522.86219)">
-    <ellipse
-       style="fill:#f1c40f;fill-opacity:1;stroke:#d0aa0d;stroke-width:0.28122878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <circle
+       style="fill:#f0c674;fill-opacity:1;stroke:#f0c674;stroke-width:0.32810026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4157"
        cx="-277.85715"
        cy="532.36218"
-       rx="5.859386"
-       ry="5.8593855"
-       inkscape:export-filename="/home/ionicabizau/Documents/foo/Flattiance/metacity-1/minimize.png"
-       inkscape:export-xdpi="8192"
-       inkscape:export-ydpi="8192" />
+       r="6.8359499" />
   </g>
 </svg>
