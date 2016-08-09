@@ -13,7 +13,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="menuitem-checkbox-mixed.svg">
   <defs
      id="defs4">
@@ -32,18 +32,6 @@
          offset="1"
          id="stop3806" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter3971"
-       x="-0.045"
-       width="1.09"
-       y="-0.18"
-       height="1.36">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.15"
-         id="feGaussianBlur3973" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -52,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.4"
-     inkscape:cx="-1.4008405"
-     inkscape:cy="10.758851"
+     inkscape:zoom="42.2625"
+     inkscape:cx="8.6080326"
+     inkscape:cy="8.8659199"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -89,14 +77,7 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <rect
-       style="fill:#555753;fill-opacity:1;stroke:none;filter:url(#filter3971)"
-       id="rect3931-1"
-       width="8"
-       height="2"
-       x="4"
-       y="1043.4515" />
-    <rect
-       style="fill:#808080;fill-opacity:1;stroke:none"
+       style="fill:#969896;fill-opacity:1;stroke:none"
        id="rect3931"
        width="8"
        height="2"

@@ -13,7 +13,7 @@
    height="9"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="pane-handle.svg">
   <defs
      id="defs4" />
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="-11.087273"
-     inkscape:cy="3.6971205"
+     inkscape:zoom="56.5625"
+     inkscape:cx="1.0445775"
+     inkscape:cy="3.6820648"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="717"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-width="1623"
+     inkscape:window-height="1026"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -72,7 +72,7 @@
        height="4"
        width="1"
        id="rect3757"
-       style="opacity:0.2;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.2;color:#000000;fill:#1d1f21;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
        y="-4"
@@ -80,7 +80,7 @@
        height="4"
        width="1"
        id="rect3757-3"
-       style="opacity:0.2;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.2;color:#000000;fill:#1d1f21;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
        y="-4"
@@ -88,7 +88,7 @@
        height="4"
        width="1"
        id="rect3757-35"
-       style="opacity:0.2;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.2;color:#000000;fill:#1d1f21;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        transform="matrix(0,1,-1,0,0,0)" />
   </g>
 </svg>

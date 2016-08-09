@@ -14,7 +14,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="menuitem-radio-checked-insensitive.svg">
   <defs
      id="defs4">
@@ -44,14 +44,6 @@
        r="7"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.5714285,1.411262e-8,-1.411262e-8,1.5714286,-4.5714281,-4.5714287)" />
-    <filter
-       inkscape:collect="always"
-       id="filter3881">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.24"
-         id="feGaussianBlur3883" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -60,16 +52,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="-7.0832348"
-     inkscape:cy="11.076724"
+     inkscape:zoom="19.796875"
+     inkscape:cx="-9.83846"
+     inkscape:cy="16.190613"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="711"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-width="1623"
+     inkscape:window-height="1026"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -98,13 +90,13 @@
      transform="translate(0,-1036.3622)">
     <path
        sodipodi:type="arc"
-       style="fill:#ada9a8;fill-opacity:1;stroke:none"
+       style="fill:#b4b7b4;fill-opacity:1;stroke:none"
        id="path3833"
        sodipodi:cx="8"
        sodipodi:cy="8"
        sodipodi:rx="3"
        sodipodi:ry="3"
-       d="M 11,8 C 11,9.6568542 9.6568542,11 8,11 6.3431458,11 5,9.6568542 5,8 5,6.3431458 6.3431458,5 8,5 c 1.6568542,0 3,1.3431458 3,3 z"
+       d="M 11,8 A 3,3 0 0 1 8,11 3,3 0 0 1 5,8 3,3 0 0 1 8,5 3,3 0 0 1 11,8 Z"
        transform="translate(0,1036.3622)" />
   </g>
 </svg>

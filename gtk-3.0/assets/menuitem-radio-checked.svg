@@ -14,7 +14,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="menuitem-radio-checked.svg">
   <defs
      id="defs4">
@@ -52,15 +52,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="-3.5477009"
-     inkscape:cy="11.076724"
+     inkscape:zoom="25.986174"
+     inkscape:cx="8.1123455"
+     inkscape:cy="7.9981639"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="976"
      inkscape:window-height="541"
-     inkscape:window-x="65"
+     inkscape:window-x="72"
      inkscape:window-y="330"
      inkscape:window-maximized="0">
     <inkscape:grid
@@ -90,13 +90,13 @@
      transform="translate(0,-1036.3622)">
     <path
        sodipodi:type="arc"
-       style="fill:#808080;fill-opacity:1;stroke:none"
+       style="fill:#969896;fill-opacity:1;stroke:none"
        id="path3833"
        sodipodi:cx="8"
        sodipodi:cy="8"
        sodipodi:rx="3"
        sodipodi:ry="3"
-       d="M 11,8 C 11,9.6568542 9.6568542,11 8,11 6.3431458,11 5,9.6568542 5,8 5,6.3431458 6.3431458,5 8,5 c 1.6568542,0 3,1.3431458 3,3 z"
+       d="M 11,8 A 3,3 0 0 1 8,11 3,3 0 0 1 5,8 3,3 0 0 1 8,5 3,3 0 0 1 11,8 Z"
        transform="translate(0,1036.3622)" />
   </g>
 </svg>
