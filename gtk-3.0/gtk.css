@@ -1,12 +1,30 @@
+/* Define bases */
+@define-color base00 #1d1f21;
+@define-color base01 #282a2e;
+@define-color base02 #373b41;
+@define-color base03 #969896;
+@define-color base04 #b4b7b4;
+@define-color base05 #c5c8c6;
+@define-color base06 #e0e0e0;
+@define-color base07 #ffffff;
+@define-color base08 #cc6666;
+@define-color base09 #de935f;
+@define-color base0A #f0c674;
+@define-color base0B #b5bd68;
+@define-color base0C #8abeb7;
+@define-color base0D #81a2be;
+@define-color base0E #b294bb;
+@define-color base0F #a3685a;
+
 /* default color scheme */
-@define-color bg_color #dedede;
-@define-color fg_color #555555;
-@define-color base_color #f9f9f9;
-@define-color text_color #333333;
-@define-color selected_bg_color #7A7D81;
-@define-color selected_fg_color #f9f9f9;
-@define-color tooltip_bg_color #2d2d2d;
-@define-color tooltip_fg_color #dcdcdc;
+@define-color bg_color @base00;
+@define-color fg_color @base05;
+@define-color base_color @base01;
+@define-color text_color @base05;
+@define-color selected_bg_color @base02;
+@define-color selected_fg_color @base05;
+@define-color tooltip_bg_color @base03;
+@define-color tooltip_fg_color @base05;
 
 /* dark color scheme */
 @define-color dark_bg_color #2d2d2d;
@@ -27,18 +45,18 @@
 @define-color dark_shadow #000;
 
 /* misc colors used by gtk+ */
-@define-color info_fg_color rgb (58, 135, 173);
-@define-color info_bg_color rgb (217, 237, 247);
-@define-color warning_fg_color rgb (192, 152, 83);
-@define-color warning_bg_color rgb (252, 248, 227);
-@define-color question_fg_color rgb (214, 73, 55);
-@define-color question_bg_color rgb (252, 229, 213);
-@define-color error_fg_color rgb (185, 74, 72);
-@define-color error_bg_color rgb (242, 222, 222);
-@define-color link_color #7A7D81;
-@define-color success_color #53a93f;
-@define-color warning_color #f57900;
-@define-color error_color #cc0000;
+@define-color info_fg_color @base0D;
+@define-color info_bg_color @base02;
+@define-color warning_fg_color @base0A;
+@define-color warning_bg_color @base02;
+@define-color question_fg_color @base09;
+@define-color question_bg_color @base02;
+@define-color error_fg_color @base08;
+@define-color error_bg_color @base02;
+@define-color link_color @base0A;
+@define-color success_color @base0B;
+@define-color warning_color @base09;
+@define-color error_color @base08;
 
 /* widget colors */
 @define-color titlebar_bg_color @dark_bg_color;
